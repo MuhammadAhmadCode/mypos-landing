@@ -17,7 +17,7 @@ export default function CTA() {
                 </h2>
                 <p className="mt-5 max-w-[46ch] text-[16px] leading-relaxed text-white/50">
                   Install today, migrate your product list, and open the
-                  register. One payment, no subscription, full ownership.
+                  register. Start free, then go monthly or own it forever.
                 </p>
               </div>
               <a
